@@ -1,0 +1,4 @@
+com/myproject/clients/notification/NotificationSendRequest.class
+com/myproject/clients/notification/NotificationClient.class
+com/myproject/clients/fraud/FraudCheckResponse.class
+com/myproject/clients/fraud/FraudClient.class

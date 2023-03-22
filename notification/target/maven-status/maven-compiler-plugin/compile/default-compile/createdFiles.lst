@@ -1,0 +1,9 @@
+com/myproject/notification/NotificationController.class
+com/myproject/notification/NotificationApplication$Person.class
+com/myproject/notification/NotificationConfig.class
+com/myproject/notification/Notification.class
+com/myproject/notification/NotificationApplication.class
+com/myproject/notification/rabbitmq/NotificationConsumer.class
+com/myproject/notification/NotificationRepository.class
+com/myproject/notification/NotificationService.class
+com/myproject/notification/Notification$NotificationBuilder.class
