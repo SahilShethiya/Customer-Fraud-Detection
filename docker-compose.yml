@@ -41,6 +41,9 @@ services:
     ports:
       - "5672:5672"
       - "15672:15672"
+    networks:
+      - spring
+
 networks:
   postgres:
     driver: bridge
